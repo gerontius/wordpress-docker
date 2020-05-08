@@ -24,3 +24,7 @@ node_modules/
 *.log
 *.sql
 *.sqlite
+
+# ignore sublime project files
+france-blog.sublime-project
+france-blog.sublime-workspace
